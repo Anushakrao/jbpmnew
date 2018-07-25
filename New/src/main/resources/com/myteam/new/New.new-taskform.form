@@ -1,0 +1,22 @@
+
+<form id="150898453">
+<property name="name" value="New.new-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="name" type="InputText" id="1310932146">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;name (name)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="name"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="ph_num" type="InputText" id="693326060">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ph_num (ph_num)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="ph_num"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="name" value="java.lang.String" id="name"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="ph_num" value="java.lang.String" id="ph_num"/>
+</form>
